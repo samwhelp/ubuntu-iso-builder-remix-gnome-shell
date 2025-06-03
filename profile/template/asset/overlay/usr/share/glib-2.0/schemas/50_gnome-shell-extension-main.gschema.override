@@ -9,7 +9,7 @@ enabled-extensions=['user-theme@gnome-shell-extensions.gcampax.github.com', 'ubu
 
 
 [org.gnome.shell.extensions.user-theme]
-name='Fluent-round-Dark'
+name='Orchis-Dark'
 
 
 
