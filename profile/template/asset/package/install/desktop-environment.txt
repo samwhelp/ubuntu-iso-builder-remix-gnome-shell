@@ -34,6 +34,7 @@ nautilus-extension-gnome-terminal
 nemo
 
 
+ptyxis
 gnome-terminal
 #mate-terminal
 lxterminal
